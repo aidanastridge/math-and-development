@@ -17,7 +17,6 @@ Recently, I had to deal with drug resistant epilepsy over the last two years tha
 | Languages |
 | --- |
 | Python |
-| Julia |
 | TypeScript |
 
 | Domain | Textbook | Subject |
