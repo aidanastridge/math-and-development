@@ -1,4 +1,4 @@
-# Fundamentals of Mathematics, Machine Learning, and AI 
+# Mathematics, Machine Learning, and AI 
 
 #### **Aidan** **Astridge**
 
