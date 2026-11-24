@@ -1,4 +1,4 @@
-# Fundamentals of Mathematics, Machine Learning, and AI 
+# Mathematics, Machine Learning, and AI 
 
 #### **Aidan** **Astridge**
 
@@ -17,8 +17,9 @@ Recently, I had to deal with drug resistant epilepsy over the last two years tha
 | Languages |
 | --- |
 | Python |
-| Julia |
 | TypeScript |
+| R |
+| Julia |
 
 | Domain | Textbook | Subject |
 | --- | --- | --- |
