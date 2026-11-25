@@ -21,13 +21,20 @@ Recently, I had to deal with drug resistant epilepsy over the last two years tha
 | R |
 | Julia |
 
+
 | Domain | Textbook | Subject |
 | --- | --- | --- |
-| Calculus | *Calculus: Early Transcendentals* | Machine Learning |
-| Linear Algebra | *Introduction to Linear Algebra* | Machine Learning |
-| Discrete Mathematics and Proofs | *Mathematics for Computer Science* | Machine Learning |
+| Calculus | *Calculus: Early Transcendentals* | Math |
+| Linear Algebra | *Introduction to Linear Algebra* | Math |
+| Proofs | *How to Prove It: A Structured Approach* | Math |
+| Computer Architecture | *Computer Systems: A Programmer's Perspective* | Computer Science |
+| Algorithms and Data Structures | *The Algorithm Design Manual* | Computer Science |
+| Operating Systems | *Operating Systems: Three Easy Pieces* | Computer Science |
+| Compter Networking | *Computer Networking: A Top-Down Approach* | Computer Science |
+| Discrete Mathematics | *Mathematics for Computer Science* | Computer Science |
 | Distributed Systems | *Designing Data-Intensive Applications* | Computer Science |
 | Databases | *Readings in Database Systems* | Computer Science |
+| Languages and Compilers | *Crafting Interpreters* | Computer Science |
 
 #### Source
 
